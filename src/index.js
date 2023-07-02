@@ -113,7 +113,6 @@ homeButton.addEventListener("click", () => {
 
 menuButton.addEventListener("click", () => {
     container.removeChild(container.firstElementChild);
-    console.log(createMenu());
     container.appendChild(createMenu());
 });
 
