@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    width: 28vw;
+    margin: 0 auto;
+}
+
+.hour{
+    margin-bottom: 4px;
+}
